@@ -1,5 +1,3 @@
-let rocket;
-
 /**
  * Global variables
  */
